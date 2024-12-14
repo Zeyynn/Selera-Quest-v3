@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Money
+  - Ground
+  - Item
+  - Enemy
+  - GameMusic
+  - Reward
+  - Herb
+  - Recipe
+  - Fall
+  - Life
+  - Villager1
+  - Villager2
+  - Villager3
+  - Ingrediends
+  - Done
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Sky
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 2664122021
+    locked: 0
+  - name: Background
+    uniqueID: 4210288089
+    locked: 0
+  - name: Background1
+    uniqueID: 678815231
+    locked: 0
+  - name: Object back
+    uniqueID: 3023498325
+    locked: 0
+  - name: Object back 1
+    uniqueID: 3122555191
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Object front
+    uniqueID: 3364639217
+    locked: 0
+  - name: Object front 1
+    uniqueID: 3090062017
+    locked: 0
+  - name: Foreground
+    uniqueID: 3853312793
+    locked: 0

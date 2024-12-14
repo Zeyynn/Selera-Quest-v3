@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Level1_Ani/Scenes/Main Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Level1_Ani/Scenes/Level Select.unity
+    guid: 54f53507d4273444c8fc51b8da6a63ee
+  - enabled: 1
+    path: Assets/Level1_Ani/Scenes/Level 1.unity
+    guid: 86baaf74404d4944aa68549ae2ff9ae0
+  - enabled: 1
+    path: Assets/Level1_Ani/Scenes/Game Over - Lvl 1.unity
+    guid: 7903393eb7a269746a2fdcc6217ecb23
+  - enabled: 1
+    path: Assets/Level1_Ani/Scenes/Finish - Lvl1.unity
+    guid: ce0671d3139cb5a42a48e696ec5d28f8
+  - enabled: 1
+    path: Assets/Level2_sit/Scenes/Level2.unity
+    guid: ed81fa4dab6179b49aa9dbd9b66965c3
+  - enabled: 1
+    path: Assets/Level2_sit/Scenes/Level2Finish.unity
+    guid: f50d8878c1bd2f245847245d2df28b7e
+  - enabled: 0
+    path: Assets/Level2_sit/Scenes/Level2Finish.unity
+    guid: f50d8878c1bd2f245847245d2df28b7e
+  - enabled: 1
+    path: Assets/Level3_athirah/Scenes/SampleScene.unity
+    guid: 5707e7f0b25481e4b942c93d21d1c83e
+  - enabled: 1
+    path: Assets/Level4_razin/QUEST.unity
+    guid: cd51ef0671b720e4c8c3f76e2f5a946a
+  m_configObjects: {}
